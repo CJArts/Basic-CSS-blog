@@ -1,0 +1,37 @@
+body {
+    max-width:700px;
+    width: 66%;
+    margin: 30px auto;
+    border: 20px solid rgba(81, 169, 219, 0.53);
+    font-family: 'PT Sans Narrow', sans-serif;
+    border-radius: 5px
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+div {
+    background-color: rgb(212, 234, 255);
+    padding: 20px;
+}
+
+.Date {
+    margin-top: 0px;
+    color: rgb(185, 68, 221);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+
+.First_P {
+    border-left: 5px solid rgba(68, 30, 238, 0.53);
+    padding-left: 5px;
+}
+
+hr {
+    margin: 0px;
+    border-color: rgba(68, 30, 238, 0.43);
+    border-radius: 5px;
+    border-width: 4px;
+}
